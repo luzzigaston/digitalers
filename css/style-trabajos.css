@@ -1,0 +1,9 @@
+.logo{
+    height: 50px;
+    width: 100px;
+}
+#tarjetas{
+    position: absolute;
+    margin: 10% 10px 0% 10px;
+    background: linear-gradient(#FEFEFE, #888888);
+}

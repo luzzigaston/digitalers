@@ -1,0 +1,27 @@
+.logo{
+    height: 50px;
+    width: 100px;
+}
+
+/*formulario */
+
+#formulario{
+    background: linear-gradient(#FEFEFE, #888888);
+    margin: 10% 0px 0px 0px;
+    width: 100%;
+    padding: 0%;
+}
+
+.titulo-gral{
+    text-align: center;
+}
+
+#totalPago {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+#boton{
+    background: blue;
+}
+
